@@ -23,5 +23,11 @@ class Aspirant extends Students{
      avarageMark == 5 ? stp= 40000 : stp=0;
     print("У студента $firstName, Средний балл: $avarageMark. Стипендия составляет $stp сом");
   }
+
+
+
+
+
+  /// TODO
 }
 
